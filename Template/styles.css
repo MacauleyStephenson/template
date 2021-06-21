@@ -1,0 +1,8 @@
+html{
+    box-sizing: border-box; /*any padding of the with, prevents a horizonal scroll bar*/
+}
+
+body{
+    margin: 0;
+    min-height: 100vh; /*Viewport height vh*/
+}
